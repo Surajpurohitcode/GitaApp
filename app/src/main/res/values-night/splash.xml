@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GitaApp.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#2C2A6C</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.GitaApp</item>
+    </style>
+</resources>
